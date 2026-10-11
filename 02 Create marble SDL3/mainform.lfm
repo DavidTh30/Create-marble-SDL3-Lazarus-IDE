@@ -1,0 +1,10 @@
+object frmMain: TfrmMain
+  Left = 120
+  Height = 860
+  Top = 80
+  Width = 1360
+  Caption = 'Marble Maker (SDL3)'
+  Position = poScreenCenter
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+end
